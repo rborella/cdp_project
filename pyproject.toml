@@ -3,4 +3,6 @@ name = "cdp-project"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "selenium>=4.36.0",
+]
